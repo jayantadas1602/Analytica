@@ -5,9 +5,6 @@ The bot is created using opensource NLP & NLU framework `Rasa` which gives ample
 
 ![rasa_img](images/rasa.png)
 
-You can see the demo from below GIF where I am asking the bot questions regarding different datasets and it is answering me and also it is doing changes in datasets as per my messages.
-
-![demo_gif](images/ml-data-bot.gif)
 
 # How to Run the Project
 - Install latest version of `rasa` using the instructions given on [official website](https://rasa.com/docs/rasa/user-guide/installation/) and `Python` version in your system must be `3.6 or greater`.
